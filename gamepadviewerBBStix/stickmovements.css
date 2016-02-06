@@ -34,8 +34,8 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     /* The background image is basically the base for the controller's skin.
     The entirity of the skin's visual styling is done via background images and CSS sprites. */ 
     background: url('https://raw.githubusercontent.com/StarrrLiteNL/gamepadviewerbbstix/master/gamepadviewerBBStix/images/bbstix.png'); 
-    height: 558px;
-    width: 784px;
+    height: 150px;
+    width: 450px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
     background: url('https://raw.githubusercontent.com/StarrrLiteNL/gamepadviewerbbstix/master/gamepadviewerBBStix/images/bbstix-disconnected.png');
