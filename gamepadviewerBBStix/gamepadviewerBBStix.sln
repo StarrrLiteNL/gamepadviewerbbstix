@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{46688CEF-0A08-46CF-96DE-2D551433F347}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Websites\star-lite.nl\wwwroot\meuk\sticks\bbstix-disconnected.png = D:\Websites\star-lite.nl\wwwroot\meuk\sticks\bbstix-disconnected.png
+		D:\Websites\star-lite.nl\wwwroot\meuk\sticks\bbstix.png = D:\Websites\star-lite.nl\wwwroot\meuk\sticks\bbstix.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
