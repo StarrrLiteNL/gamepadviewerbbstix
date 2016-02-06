@@ -228,7 +228,7 @@ the CSS inline. */
     left: 74px;
 }
 .custom .face{
-    background: url(ps3-assets/dpad.png);
+    /* background: url(ps3-assets/dpad.png); */
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
