@@ -52,14 +52,14 @@ the CSS inline. */
     position: absolute;
     width: 364px;
     height: 105px;
-    top: 328px;
-    left: 210px;
+    top: 75px;
+    left: 75px;
 }
 .custom .stick{
     position: absolute;
-    background: url('https://raw.githubusercontent.com/StarrrLiteNL/gamepadviewerbbstix/master/gamepadviewerBBStix/images/bbstix-stickpos.png');
-    height:105px;
-    width: 105px;
+    background: url('images/bbstix-stickpos.png');
+    height:15px;
+    width: 15px;
 }
 
 .custom .stick.left{
